@@ -46,7 +46,7 @@ python3 -m scripts.run_afno
 ```
 
 * `--config` points to a YAML file defining data paths, model hyper‑parameters and training schedule.
-
+* Trained checkpoint is stored in saved_models folder
 ## Visualisation 📊
 
 After training, generate:
